@@ -1,0 +1,21 @@
+@Order.Ingest.Application_HostAddress = http://localhost:7194
+
+### Enviar pedido para processamento
+POST {{Order.Ingest.Application_HostAddress}}/api/orders
+Content-Type: application/json
+
+{
+  "orderId": "ORDER987654",
+  "items": [
+    {
+      "productId": "PROD100",
+      "quantity": 3,
+      "price": 199.99
+    },
+    {
+      "productId": "PROD200",
+      "quantity": 2,
+      "price": 149.50
+    }
+  ]
+}
