@@ -27,3 +27,4 @@ O sistema segue uma arquitetura baseada em DDD (Domain-Driven Design) e princíp
 - Swagger (OpenAPI)
 
 ---
+<img width="1340" height="1454" alt="Image" src="https://github.com/user-attachments/assets/80e1d2a5-4800-4fc5-b93b-853b943df237" />
