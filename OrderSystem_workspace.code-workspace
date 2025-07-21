@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "proj1_OrderIngestService",
+			"path": "D:/_Projetos/CSharp_DoisProjetos/OrderSystem/proj1_OrderIngestService"
+		},
+		{
+			"name": "proj2_OrderDispatchService",
+			"path": "D:/_Projetos/CSharp_DoisProjetos/OrderSystem/proj2_OrderDispatchService"
+		}
+	],
+	"settings": {}
+}
